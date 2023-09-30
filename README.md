@@ -28,5 +28,5 @@ Before going into the earthquake prediction model using python let us obtain the
 
 # Installation
         1. Clone the repository to your local machine.
-        https://github.com/Saki0023/AI_Phase1.git
+        https://github.com/Saheena-N/Saheena-AI-Phase-1.git
         
