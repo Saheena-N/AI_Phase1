@@ -1,1 +1,53 @@
+STUDENT VALIDATION FORM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>MY FORM</title>
+</head>
+<body bgcolor="lightgreen">  
+<center>
+<h1>Student validation form</h1>
+</center>
+<form>
+<table>
+<tr><td><b>NAME :</b></td><td><input type="text"name="username"></tr>
+<tr><td><b>REG NO :</b></td><td><input type="number" name="no"></tr>
+<tr><td><b>EMAIL ID :</b></td><td><input type="text" name="email"></tr>
+<tr><td><b>DOB :</b></td><td><input type="date" name="dt"></tr>
+<tr><td><b>GENDER :</b></td>
+<td><input type="radio" name="group1" value="Male">Male</td>
+<td><input type="radio" name="group1" value="FeMale">FeMale</td></tr>
+<tr><td><b>RELIGION :</b></td><td><input type="text"name="username"></tr>
+<tr><td><b>NATIONALITY :</b></td><td><input type="text"name="username"></tr>
+<tr>
+<td><b>ADDRESS:</b></td>
+<td><textarea name="Address" rows="4" cols="30"></textarea></td>
+</tr>
+<tr><td><b>FATHER's NAME :</b></td><td><input type="text" name="username"></tr>
+<tr><td><b>FATHER's OCCUPATION:</b></td><td><input type="text" name="username"></tr>
+<tr><td><b>MOTHER's NAME :</b></td><td><input type="text" name="username"></tr>
+<tr><td><b>MOTHER's OCCUPATION :</b></td><td><input type="text" name="username"></tr>
+<tr><td><b>DEGREE :</b></td><td>
+<select name ="My menu">
+    <option value="BCA">BCA Degree</option>  
+    <option value="BBA">BBA Degree</option>  
+    <option value="B.Tech">B.Tech Degree</option>  
+    <option value="MBA">MBA Degree</option>  
+    <option value="MCA">MCA Degree</option>  
+    <option value="M.Tech">M.Tech Degree</option>
+</select></td>
+<tr><td><b>DEPARTMENT :</b></td><td>
+<select name ="My menu">
+    <option value="Information Technology">IT department</option>
+    <option value="Computer science Engineering">CSE department</option>    
+    <option value="Electronics and Communication Engineering">ECE department</option>  
+    <option value="Mechanical department">Mech department</option>  
+    <option value=="Electrical and Electronic Engineering">EEE department</option>
+</select></td>
+<tr><td><b>MOBILE NO :</b></td><td><input type="text" name="country code"  value="+91" size="2"/>   
+<input type="text" name="phone" size="12"><br>
+<tr><td><b>10TH MARK :</b></td><td><input type="number"name="username"></tr>
+<tr><td><b>12TH MARK :</b></td><td><input type="number"name="username"></tr>
+</html>
+
 
